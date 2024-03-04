@@ -1,5 +1,5 @@
-![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/c2a131091156fdaf467bff0c0278db43d102df96/Sreerag%20K%20U.png)
-
+### Hi there 👋, My name is Sreerag K U
+#### I am Master of Computer Application Student
 
 I am a motivated and dedicated individual with strong technical skills in web development and software engineering. My expertise includes proficiency in JavaScript, React, Next, Node.js, MongoDB, and other related technologies. I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
 
