@@ -1,19 +1,19 @@
-Hi there, I'm Sreerag K U! 👋
-I'm a Master of Computer Applications student at Amal Jyothi College of Engineering, Kanjirappally, Kottayam, currently pursuing my degree. I have a Bachelor's degree in English Language and Literature from Amrita Vishwa Vidhyapeetham, Ettimadai, Coimbatore. I also hold diplomas in Computer Applications and Computerised Financial Accounting (Tally & MS Office) from Keltron Knowledge Centre, Palakkad.
+### Hi there 👋, My name is Sreerag K U
+#### I am Master of Computer Application Student
+![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/c2a131091156fdaf467bff0c0278db43d102df96/Sreerag%20K%20U.png)
 
-📚 Education:
 
-Master of Computer Applications, Amal Jyothi College of Engineering, Kanjirappally, Kottayam, 2022-2024 (Currently Pursuing)
-Bachelor of Arts in English Language and Literature, Amrita Vishwa Vidhyapeetham, Ettimadai, Coimbatore, 2019-2022
-Diploma in Computer Applications, Keltron Knowledge Centre, Palakkad, 2022
-Diploma in Computerised Financial Accounting (Tally & MS Office), Keltron Knowledge Centre, Palakkad, 2022
-Course in Introduction to Internet of Things, NPTEL-IIT, Kharagpur
-📱 Contact:
+I am a motivated and dedicated individual with strong technical skills in web development and software engineering. My expertise includes proficiency in JavaScript, React, Next, Node.js, MongoDB, and other related technologies. I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
 
-Phone: +91 7306117605
-Address: Karthika, Valekkad, Muttikulangara P O, Palakkad, Kerala, Pin: 678594
-Projects
-IdeaWeave: A Content Management System built with the MERN Stack and NEXT JS.
-WeaveWagon: An E-commerce platform developed using NEXT JS and MongoDB atlas.
-WeaveWeb: A SAAS project utilizing the OpenAI API.
-YKStrip: A project developed with PHP, HTML/CSS, and Bootstrap, in collaboration with Fedbytes Technologies, Startup Valley, AJCE, Kanjirappally.
+Skills: NEXT/ REACT / JS / PHP/ DOCKER
+
+- 🔭 I’m currently working on WeaveWeb (SAAS platform) 
+- 🌱 I’m currently learning Masters in Computer Application 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SreeragKU)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sreeragku//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+917306117605)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SreeragKU)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SreeragKU&show_icons=true)  
+
