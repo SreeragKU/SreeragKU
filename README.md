@@ -6,7 +6,7 @@
 
 I am a motivated and dedicated individual with strong technical skills in web development and software engineering. My expertise includes proficiency in JavaScript, React, Next, Node.js, MongoDB, and other related technologies. I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
 
-Skills: NEXT/ REACT / JS / PHP/ DOCKER
+Skills: NEXT/ REACT / JS / PHP/ DOCKER / FLUTTER
 
 - 🔭 I’m currently working on WeaveWeb (SAAS platform) 
 - 🌱 I’m currently learning Masters in Computer Application 
