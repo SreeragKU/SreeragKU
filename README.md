@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Sreerag K U
-![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/c2a131091156fdaf467bff0c0278db43d102df96/Sreerag%20K%20U.png)
+![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(1).png)
 #### I am Master of Computer Application Student
 
 
