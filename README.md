@@ -1,5 +1,5 @@
 ![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(1).png)
-#### I am Master of Computer Application Student
+#### Software Developer || UI/UX Designer
 
 # 💫 About Me:
 I am a motivated and dedicated individual with strong technical skills in web development and software engineering. <br>My expertise includes proficiency in JavaScript, React, Next, Node.js, MongoDB, and other related technologies. <br>I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
