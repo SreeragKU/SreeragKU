@@ -2,7 +2,7 @@
 #### Software Developer || UI/UX Designer
 
 # 💫 About Me:
-I am a motivated and dedicated individual with strong technical skills in web development and software engineering. <br>My expertise includes proficiency in JavaScript, React, Next, Node.js, MongoDB, and other related technologies. <br>I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
+I am a motivated and dedicated individual with strong technical skills in web development and software engineering. <br>My expertise includes proficiency in React, Next, Node.js, MongoDB, and other related technologies<br> My latest interest is in the field of Transformer Neural Networks and its various applications. <br> Currently completed an English to Malayalam translation using TNN. <br>I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
 
 
 ## 🌐 Socials:
