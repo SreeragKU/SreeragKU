@@ -1,4 +1,4 @@
-![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(1).png)
+![I am Master of Computer Application Student](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(2).png)
 #### Software Developer || UI/UX Designer
 
 # 💫 About Me:
