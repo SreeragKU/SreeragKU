@@ -1,5 +1,5 @@
 ![Safran India Private Limited Employee](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(2).png)
-#### Software Developer || UI/UX Designer
+#### Software Engineer || UI/UX Designer
 
 # 💫 About Me:
 I am a motivated and dedicated individual with strong technical skills in web development and software engineering. <br>My expertise includes proficiency in React, Next, Node.js, MongoDB, PHP and other related technologies<br> My latest interest is in the field of Transformer Neural Networks and its various applications. <br> Graduated in Master of Computer Application and currently applying my knowledge and skill as an employee of Safran India Private Limited. <br>I have experience building robust web applications and a passion for learning new technologies to enhance my skills further.
