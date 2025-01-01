@@ -1,4 +1,4 @@
-![Safran India Private Limited Employee](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U%20(2).png)
+![Safran India Private Limited Employee](https://github.com/SreeragKU/SreeragKU/blob/main/Sreerag%20K%20U.png)
 #### Software Engineer || UI/UX Designer
 
 # 💫 About Me:
